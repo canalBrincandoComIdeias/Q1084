@@ -3,7 +3,7 @@
 
 Projeto do Vídeo Q1084 Série **_MÓDULOS PARA ARDUINO_**
 
-:video_camera: Assista o vídeo [CLIQUE AQUI](https://https://youtu.be/GF4DfSiGFNE)
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/ijiZ_UyChbs)
 
 
 - Confira esse e outros projetos do MÓDULOS PARA ARDUINO assistindo a Playlist [(Clique Aqui)](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMcx0hcgNg82h2IQSi_Pf-uQ)
